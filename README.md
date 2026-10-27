@@ -55,6 +55,7 @@
 
 - [Embedded Security CTF](https://microcorruption.com) - The purpose is to bypass a series of locks, essentially hacking them, in order to get through a series of warehouses.
 - [Box-256](http://box-256.com) - Write assembly code to match a shown graphic.
+- [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) - Puzzle game by Tomorrow Corporation where you program office workers with a small assembly-like language to move items from the inbox to the outbox.
 
 
 ## Scala
